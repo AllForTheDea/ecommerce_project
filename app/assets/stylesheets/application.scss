@@ -16,3 +16,15 @@
 
  @import 'bootstrap-sprockets';
  @import 'bootstrap';
+
+
+$main-color: #004B66;
+
+
+
+.navbar{
+	background-color: $main-color;
+}
+
+#navBarSearchForm input[type=text]{width: 500px !important;}
+
